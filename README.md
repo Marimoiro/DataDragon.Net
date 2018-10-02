@@ -54,3 +54,8 @@ However, it have not any caching.
                 var akali = await client.RequestChampionAsync("Akali");
             }
 ```
+
+
+# Libralies
+
+* [Json.Net](https://www.newtonsoft.com/json)
